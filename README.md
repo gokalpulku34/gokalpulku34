@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gokalp Ulku</h1>
-<h3 align="center">Data Science</h3>
+<h3 align="center">Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokalpulku34&label=Profile%20views&color=0e75b6&style=flat" alt="gokalpulku34" /> </p>
